@@ -11,6 +11,10 @@ license:
 reference:
   VS Fonov, AC Evans, K Botteron, CR Almli, RC McKinstry, DL Collins and BDCG, Unbiased average age-appropriate atlases for pediatric studies, NeuroImage,Volume 54, Issue 1, January 2011, ISSN 1053–8119, DOI: 10.1016/j.neuroimage.2010.07.033
 
+human.ad.t1w.nii.gz
+
+Dadar, Mahsa, Camicioli, Richard, & Duchesne, Simon. (2021). Multi-Sequence Average Templates for Aging and Neurodegenerative Disease Populations. https://doi.org/10.5281/zenodo.5018356
+
 rhesus.t1w.nii.gz
 rhesus.t2w.nii.gz
 
